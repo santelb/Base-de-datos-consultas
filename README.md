@@ -1,2 +1,2 @@
-# Base-de-datos-consultas 
+# MYSQL-Base-de-datos-consultas
 Aprendiendo a usar git
