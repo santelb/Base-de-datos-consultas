@@ -1,0 +1,8 @@
+SHOW DATABASE;
+--Lista todas las bases de datos a las cuales el usuario tiene acceso.
+CREATE DATABASE ejemplo;
+--Crea la base de datos con el nombre "ejemplo".
+USE ejemplo;
+--Sin esto no podrias entrar a la base de datos para hacer consultas.
+DELETE DATABASE ejemplo;
+--Borra la base de datos "ejemplo".
